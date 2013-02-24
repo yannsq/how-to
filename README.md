@@ -1,4 +1,4 @@
 how-to
 ======
 
-Some random notes to keep somewhere
+Some random notes to keep somewhere ...
